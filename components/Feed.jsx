@@ -57,3 +57,11 @@ const Feed = () => {
 }
 
 export default Feed;
+
+// TODO: 
+// 1. Implement search (Feed)
+// - Search by prompt
+// - Search by tag
+// - Search by username
+// 2. Implement Click on tag (to see all tags) - Same as search by tag above (Feed)
+// Implement View other profiles - See all prompts by other pserson. (Create new folder on profile. Dynamic)
